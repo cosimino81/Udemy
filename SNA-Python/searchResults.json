@@ -1,0 +1,4492 @@
+{
+   "search_metadata": {
+      "count": 20, 
+      "completed_in": 0.062, 
+      "max_id_str": "907545393403064320", 
+      "since_id_str": "0", 
+      "refresh_url": "?since_id=907545393403064320&q=%23HurrcaneIrma&include_entities=1", 
+      "since_id": 0, 
+      "query": "%23HurrcaneIrma", 
+      "max_id": 907545393403064320
+   }, 
+   "statuses": [
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @moethemyth: This..... #HurrcaneIrma https://t.co/ahhJd6C3sV", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907545393403064320, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 129880735, 
+                  "indices": [
+                     3, 
+                     14
+                  ], 
+                  "id_str": "129880735", 
+                  "screen_name": "moethemyth", 
+                  "name": "Moe"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     26, 
+                     39
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": [], 
+            "media": [
+               {
+                  "source_user_id": 129880735, 
+                  "source_status_id_str": "906801631043506176", 
+                  "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                  "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                  "url": "https://t.co/ahhJd6C3sV", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                  "source_user_id_str": "129880735", 
+                  "source_status_id": 906801631043506176, 
+                  "id_str": "906801606615863296", 
+                  "sizes": {
+                     "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 614
+                     }, 
+                     "large": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "medium": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     40, 
+                     63
+                  ], 
+                  "type": "photo", 
+                  "id": 906801606615863296, 
+                  "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+               }
+            ]
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 9057, 
+         "id_str": "907545393403064320", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This..... #HurrcaneIrma https://t.co/ahhJd6C3sV", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906801631043506176, 
+            "favorite_count": 13940, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        10, 
+                        23
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [], 
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                     "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                     "url": "https://t.co/ahhJd6C3sV", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                     "id_str": "906801606615863296", 
+                     "sizes": {
+                        "small": {
+                           "h": 680, 
+                           "resize": "fit", 
+                           "w": 614
+                        }, 
+                        "large": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "medium": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        24, 
+                        47
+                     ], 
+                     "type": "photo", 
+                     "id": 906801606615863296, 
+                     "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 9057, 
+            "id_str": "906801631043506176", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 129880735, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "333333", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/860612739076685826/MUcSb1qE_normal.jpg", 
+               "profile_sidebar_fill_color": "DDEEF6", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 92186, 
+               "profile_sidebar_border_color": "C0DEED", 
+               "id_str": "129880735", 
+               "profile_background_color": "C0DEED", 
+               "listed_count": 158, 
+               "is_translation_enabled": false, 
+               "utc_offset": null, 
+               "statuses_count": 30505, 
+               "description": "Views are my own & do not reflect the views of my employer. RT's are not endorsements. IG : agooner786", 
+               "friends_count": 74710, 
+               "location": "London/Luton", 
+               "profile_link_color": "1DA1F2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/860612739076685826/MUcSb1qE_normal.jpg", 
+               "following": false, 
+               "geo_enabled": true, 
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/129880735/1428227592", 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+               "screen_name": "moethemyth", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 30186, 
+               "name": "Moe", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Mon Apr 05 17:58:17 +0000 2010", 
+               "contributors_enabled": false, 
+               "time_zone": null, 
+               "protected": false, 
+               "default_profile": true, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 08:48:51 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                     "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                     "url": "https://t.co/ahhJd6C3sV", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                     "id_str": "906801606615863296", 
+                     "sizes": {
+                        "small": {
+                           "h": 680, 
+                           "resize": "fit", 
+                           "w": 614
+                        }, 
+                        "large": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "medium": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        24, 
+                        47
+                     ], 
+                     "type": "photo", 
+                     "id": 906801606615863296, 
+                     "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+                  }
+               ]
+            }, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 872432194278445057, 
+            "profile_background_image_url_https": null, 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/891174878304321536/i82rzKII_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 59, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "872432194278445057", 
+            "profile_background_color": "F5F8FA", 
+            "listed_count": 0, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 12620, 
+            "description": "", 
+            "friends_count": 135, 
+            "location": "", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/891174878304321536/i82rzKII_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/872432194278445057/1498329781", 
+            "profile_background_image_url": null, 
+            "screen_name": "hwnterxhwnter", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 11886, 
+            "name": "\ud83c\udf4a\ud83c\udf4a\ud83c\udf4a\ud83c\udf4a", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Wed Jun 07 12:36:58 +0000 2017", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "possibly_sensitive": false, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:04:17 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "extended_entities": {
+            "media": [
+               {
+                  "source_user_id": 129880735, 
+                  "source_status_id_str": "906801631043506176", 
+                  "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                  "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                  "url": "https://t.co/ahhJd6C3sV", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                  "source_user_id_str": "129880735", 
+                  "source_status_id": 906801631043506176, 
+                  "id_str": "906801606615863296", 
+                  "sizes": {
+                     "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 614
+                     }, 
+                     "large": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "medium": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     40, 
+                     63
+                  ], 
+                  "type": "photo", 
+                  "id": 906801606615863296, 
+                  "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+               }
+            ]
+         }, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @kevinfigman: This man out there looking like he's delivering the Krusty Krab Pizza #HurrcaneIrma https://t.co/ekognE9Rlq", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907545380157403136, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 1089999834, 
+                  "indices": [
+                     3, 
+                     15
+                  ], 
+                  "id_str": "1089999834", 
+                  "screen_name": "kevinfigman", 
+                  "name": "Kevin"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     87, 
+                     100
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": [], 
+            "media": [
+               {
+                  "source_user_id": 1089999834, 
+                  "source_status_id_str": "906939544569827328", 
+                  "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                  "display_url": "pic.twitter.com/ekognE9Rlq", 
+                  "url": "https://t.co/ekognE9Rlq", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJYYssVVYAE3Ycg.jpg", 
+                  "source_user_id_str": "1089999834", 
+                  "source_status_id": 906939544569827328, 
+                  "id_str": "906939531055685633", 
+                  "sizes": {
+                     "small": {
+                        "h": 383, 
+                        "resize": "fit", 
+                        "w": 680
+                     }, 
+                     "large": {
+                        "h": 1152, 
+                        "resize": "fit", 
+                        "w": 2048
+                     }, 
+                     "medium": {
+                        "h": 675, 
+                        "resize": "fit", 
+                        "w": 1200
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     101, 
+                     124
+                  ], 
+                  "type": "photo", 
+                  "id": 906939531055685633, 
+                  "media_url": "http://pbs.twimg.com/media/DJYYssVVYAE3Ycg.jpg"
+               }
+            ]
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 8990, 
+         "id_str": "907545380157403136", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This man out there looking like he's delivering the Krusty Krab Pizza #HurrcaneIrma https://t.co/ekognE9Rlq", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906939544569827328, 
+            "favorite_count": 17135, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        70, 
+                        83
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [], 
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                     "display_url": "pic.twitter.com/ekognE9Rlq", 
+                     "url": "https://t.co/ekognE9Rlq", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJYYssVVYAE3Ycg.jpg", 
+                     "id_str": "906939531055685633", 
+                     "sizes": {
+                        "small": {
+                           "h": 383, 
+                           "resize": "fit", 
+                           "w": 680
+                        }, 
+                        "large": {
+                           "h": 1152, 
+                           "resize": "fit", 
+                           "w": 2048
+                        }, 
+                        "medium": {
+                           "h": 675, 
+                           "resize": "fit", 
+                           "w": 1200
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        84, 
+                        107
+                     ], 
+                     "type": "photo", 
+                     "id": 906939531055685633, 
+                     "media_url": "http://pbs.twimg.com/media/DJYYssVVYAE3Ycg.jpg"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 8990, 
+            "id_str": "906939544569827328", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 1089999834, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", 
+               "verified": false, 
+               "translator_type": "regular", 
+               "profile_text_color": "663B12", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/899105300665565184/whyuNb8X_normal.jpg", 
+               "profile_sidebar_fill_color": "DAECF4", 
+               "entities": {
+                  "url": {
+                     "urls": [
+                        {
+                           "url": "https://t.co/PcMQosrl7L", 
+                           "indices": [
+                              0, 
+                              23
+                           ], 
+                           "expanded_url": "http://Instagram.com/kevinfigman", 
+                           "display_url": "Instagram.com/kevinfigman"
+                        }
+                     ]
+                  }, 
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 346, 
+               "profile_sidebar_border_color": "C6E2EE", 
+               "id_str": "1089999834", 
+               "profile_background_color": "C6E2EE", 
+               "listed_count": 7, 
+               "is_translation_enabled": false, 
+               "utc_offset": -14400, 
+               "statuses_count": 1350, 
+               "description": "my twitter is basically just a collection of memes", 
+               "friends_count": 301, 
+               "location": "", 
+               "profile_link_color": "1F98C7", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/899105300665565184/whyuNb8X_normal.jpg", 
+               "following": false, 
+               "geo_enabled": true, 
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089999834/1502565315", 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", 
+               "screen_name": "kevinfigman", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 755, 
+               "name": "Kevin", 
+               "notifications": false, 
+               "url": "https://t.co/PcMQosrl7L", 
+               "created_at": "Mon Jan 14 20:00:51 +0000 2013", 
+               "contributors_enabled": false, 
+               "time_zone": "Eastern Time (US & Canada)", 
+               "protected": false, 
+               "default_profile": false, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 17:56:52 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                     "display_url": "pic.twitter.com/ekognE9Rlq", 
+                     "url": "https://t.co/ekognE9Rlq", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJYYssVVYAE3Ycg.jpg", 
+                     "id_str": "906939531055685633", 
+                     "sizes": {
+                        "small": {
+                           "h": 383, 
+                           "resize": "fit", 
+                           "w": 680
+                        }, 
+                        "large": {
+                           "h": 1152, 
+                           "resize": "fit", 
+                           "w": 2048
+                        }, 
+                        "medium": {
+                           "h": 675, 
+                           "resize": "fit", 
+                           "w": 1200
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        84, 
+                        107
+                     ], 
+                     "type": "photo", 
+                     "id": 906939531055685633, 
+                     "media_url": "http://pbs.twimg.com/media/DJYYssVVYAE3Ycg.jpg"
+                  }, 
+                  {
+                     "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                     "display_url": "pic.twitter.com/ekognE9Rlq", 
+                     "url": "https://t.co/ekognE9Rlq", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJYYssWVAAAoAJk.jpg", 
+                     "id_str": "906939531059855360", 
+                     "sizes": {
+                        "small": {
+                           "h": 383, 
+                           "resize": "fit", 
+                           "w": 680
+                        }, 
+                        "large": {
+                           "h": 1152, 
+                           "resize": "fit", 
+                           "w": 2048
+                        }, 
+                        "medium": {
+                           "h": 675, 
+                           "resize": "fit", 
+                           "w": 1200
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        84, 
+                        107
+                     ], 
+                     "type": "photo", 
+                     "id": 906939531059855360, 
+                     "media_url": "http://pbs.twimg.com/media/DJYYssWVAAAoAJk.jpg"
+                  }, 
+                  {
+                     "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                     "display_url": "pic.twitter.com/ekognE9Rlq", 
+                     "url": "https://t.co/ekognE9Rlq", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJYYssVV4AAcK9o.jpg", 
+                     "id_str": "906939531055718400", 
+                     "sizes": {
+                        "large": {
+                           "h": 384, 
+                           "resize": "fit", 
+                           "w": 512
+                        }, 
+                        "small": {
+                           "h": 384, 
+                           "resize": "fit", 
+                           "w": 512
+                        }, 
+                        "medium": {
+                           "h": 384, 
+                           "resize": "fit", 
+                           "w": 512
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        84, 
+                        107
+                     ], 
+                     "type": "photo", 
+                     "id": 906939531055718400, 
+                     "media_url": "http://pbs.twimg.com/media/DJYYssVV4AAcK9o.jpg"
+                  }, 
+                  {
+                     "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                     "display_url": "pic.twitter.com/ekognE9Rlq", 
+                     "url": "https://t.co/ekognE9Rlq", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJYYssZVAAAycVv.jpg", 
+                     "id_str": "906939531072438272", 
+                     "sizes": {
+                        "large": {
+                           "h": 375, 
+                           "resize": "fit", 
+                           "w": 500
+                        }, 
+                        "small": {
+                           "h": 375, 
+                           "resize": "fit", 
+                           "w": 500
+                        }, 
+                        "medium": {
+                           "h": 375, 
+                           "resize": "fit", 
+                           "w": 500
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        84, 
+                        107
+                     ], 
+                     "type": "photo", 
+                     "id": 906939531072438272, 
+                     "media_url": "http://pbs.twimg.com/media/DJYYssZVAAAycVv.jpg"
+                  }
+               ]
+            }, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 777805982537658370, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/898152138110517248/ISlLWD2v_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 26, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "777805982537658370", 
+            "profile_background_color": "000000", 
+            "listed_count": 0, 
+            "is_translation_enabled": false, 
+            "utc_offset": -25200, 
+            "statuses_count": 636, 
+            "description": "Nothin to see here folks! Im just a random dude who play games and tweets with gifs~ Profile pic by @AniAKADietStab", 
+            "friends_count": 107, 
+            "location": "Exactly where you think i am", 
+            "profile_link_color": "FF691F", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/898152138110517248/ISlLWD2v_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "AFloatingGhost", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 6267, 
+            "name": "AFloatingGhost", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Mon Sep 19 09:46:11 +0000 2016", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "possibly_sensitive": false, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:04:14 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "extended_entities": {
+            "media": [
+               {
+                  "source_user_id": 1089999834, 
+                  "source_status_id_str": "906939544569827328", 
+                  "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                  "display_url": "pic.twitter.com/ekognE9Rlq", 
+                  "url": "https://t.co/ekognE9Rlq", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJYYssVVYAE3Ycg.jpg", 
+                  "source_user_id_str": "1089999834", 
+                  "source_status_id": 906939544569827328, 
+                  "id_str": "906939531055685633", 
+                  "sizes": {
+                     "small": {
+                        "h": 383, 
+                        "resize": "fit", 
+                        "w": 680
+                     }, 
+                     "large": {
+                        "h": 1152, 
+                        "resize": "fit", 
+                        "w": 2048
+                     }, 
+                     "medium": {
+                        "h": 675, 
+                        "resize": "fit", 
+                        "w": 1200
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     101, 
+                     124
+                  ], 
+                  "type": "photo", 
+                  "id": 906939531055685633, 
+                  "media_url": "http://pbs.twimg.com/media/DJYYssVVYAE3Ycg.jpg"
+               }, 
+               {
+                  "source_user_id": 1089999834, 
+                  "source_status_id_str": "906939544569827328", 
+                  "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                  "display_url": "pic.twitter.com/ekognE9Rlq", 
+                  "url": "https://t.co/ekognE9Rlq", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJYYssWVAAAoAJk.jpg", 
+                  "source_user_id_str": "1089999834", 
+                  "source_status_id": 906939544569827328, 
+                  "id_str": "906939531059855360", 
+                  "sizes": {
+                     "small": {
+                        "h": 383, 
+                        "resize": "fit", 
+                        "w": 680
+                     }, 
+                     "large": {
+                        "h": 1152, 
+                        "resize": "fit", 
+                        "w": 2048
+                     }, 
+                     "medium": {
+                        "h": 675, 
+                        "resize": "fit", 
+                        "w": 1200
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     101, 
+                     124
+                  ], 
+                  "type": "photo", 
+                  "id": 906939531059855360, 
+                  "media_url": "http://pbs.twimg.com/media/DJYYssWVAAAoAJk.jpg"
+               }, 
+               {
+                  "source_user_id": 1089999834, 
+                  "source_status_id_str": "906939544569827328", 
+                  "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                  "display_url": "pic.twitter.com/ekognE9Rlq", 
+                  "url": "https://t.co/ekognE9Rlq", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJYYssVV4AAcK9o.jpg", 
+                  "source_user_id_str": "1089999834", 
+                  "source_status_id": 906939544569827328, 
+                  "id_str": "906939531055718400", 
+                  "sizes": {
+                     "large": {
+                        "h": 384, 
+                        "resize": "fit", 
+                        "w": 512
+                     }, 
+                     "small": {
+                        "h": 384, 
+                        "resize": "fit", 
+                        "w": 512
+                     }, 
+                     "medium": {
+                        "h": 384, 
+                        "resize": "fit", 
+                        "w": 512
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     101, 
+                     124
+                  ], 
+                  "type": "photo", 
+                  "id": 906939531055718400, 
+                  "media_url": "http://pbs.twimg.com/media/DJYYssVV4AAcK9o.jpg"
+               }, 
+               {
+                  "source_user_id": 1089999834, 
+                  "source_status_id_str": "906939544569827328", 
+                  "expanded_url": "https://twitter.com/kevinfigman/status/906939544569827328/photo/1", 
+                  "display_url": "pic.twitter.com/ekognE9Rlq", 
+                  "url": "https://t.co/ekognE9Rlq", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJYYssZVAAAycVv.jpg", 
+                  "source_user_id_str": "1089999834", 
+                  "source_status_id": 906939544569827328, 
+                  "id_str": "906939531072438272", 
+                  "sizes": {
+                     "large": {
+                        "h": 375, 
+                        "resize": "fit", 
+                        "w": 500
+                     }, 
+                     "small": {
+                        "h": 375, 
+                        "resize": "fit", 
+                        "w": 500
+                     }, 
+                     "medium": {
+                        "h": 375, 
+                        "resize": "fit", 
+                        "w": 500
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     101, 
+                     124
+                  ], 
+                  "type": "photo", 
+                  "id": 906939531072438272, 
+                  "media_url": "http://pbs.twimg.com/media/DJYYssZVAAAycVv.jpg"
+               }
+            ]
+         }, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @hvgoenka: Is he taking a selfie?  #HurrcaneIrma\n  https://t.co/2Ngbz5jNq7", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907545289459949569, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 39488770, 
+                  "indices": [
+                     3, 
+                     12
+                  ], 
+                  "id_str": "39488770", 
+                  "screen_name": "hvgoenka", 
+                  "name": "Harsh Goenka"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     38, 
+                     51
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": [], 
+            "media": [
+               {
+                  "source_user_id": 3283473416, 
+                  "source_status_id_str": "906853626475188225", 
+                  "expanded_url": "https://twitter.com/ErnestSIII/status/906853626475188225/video/1", 
+                  "display_url": "pic.twitter.com/2Ngbz5jNq7", 
+                  "url": "https://t.co/2Ngbz5jNq7", 
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906853522590724098/pu/img/0aOfMLwncVLJDEAs.jpg", 
+                  "source_user_id_str": "3283473416", 
+                  "source_status_id": 906853626475188225, 
+                  "id_str": "906853522590724098", 
+                  "sizes": {
+                     "large": {
+                        "h": 406, 
+                        "resize": "fit", 
+                        "w": 720
+                     }, 
+                     "small": {
+                        "h": 192, 
+                        "resize": "fit", 
+                        "w": 340
+                     }, 
+                     "medium": {
+                        "h": 338, 
+                        "resize": "fit", 
+                        "w": 600
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     54, 
+                     77
+                  ], 
+                  "type": "photo", 
+                  "id": 906853522590724098, 
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906853522590724098/pu/img/0aOfMLwncVLJDEAs.jpg"
+               }
+            ]
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 303, 
+         "id_str": "907545289459949569", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Is he taking a selfie?  #HurrcaneIrma\n  https://t.co/2Ngbz5jNq7", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906916785227739137, 
+            "favorite_count": 621, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        24, 
+                        37
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [], 
+               "media": [
+                  {
+                     "source_user_id": 3283473416, 
+                     "source_status_id_str": "906853626475188225", 
+                     "expanded_url": "https://twitter.com/ErnestSIII/status/906853626475188225/video/1", 
+                     "display_url": "pic.twitter.com/2Ngbz5jNq7", 
+                     "url": "https://t.co/2Ngbz5jNq7", 
+                     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906853522590724098/pu/img/0aOfMLwncVLJDEAs.jpg", 
+                     "source_user_id_str": "3283473416", 
+                     "source_status_id": 906853626475188225, 
+                     "id_str": "906853522590724098", 
+                     "sizes": {
+                        "large": {
+                           "h": 406, 
+                           "resize": "fit", 
+                           "w": 720
+                        }, 
+                        "small": {
+                           "h": 192, 
+                           "resize": "fit", 
+                           "w": 340
+                        }, 
+                        "medium": {
+                           "h": 338, 
+                           "resize": "fit", 
+                           "w": 600
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        40, 
+                        63
+                     ], 
+                     "type": "photo", 
+                     "id": 906853522590724098, 
+                     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906853522590724098/pu/img/0aOfMLwncVLJDEAs.jpg"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 303, 
+            "id_str": "906916785227739137", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 39488770, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+               "verified": true, 
+               "translator_type": "none", 
+               "profile_text_color": "333333", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/895728174910251009/q03N4ZpE_normal.jpg", 
+               "profile_sidebar_fill_color": "DDEEF6", 
+               "entities": {
+                  "url": {
+                     "urls": [
+                        {
+                           "url": "https://t.co/VKD5h9QQtH", 
+                           "indices": [
+                              0, 
+                              23
+                           ], 
+                           "expanded_url": "http://www.rpggroup.com", 
+                           "display_url": "rpggroup.com"
+                        }
+                     ]
+                  }, 
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 1252169, 
+               "profile_sidebar_border_color": "C0DEED", 
+               "id_str": "39488770", 
+               "profile_background_color": "C0DEED", 
+               "listed_count": 267, 
+               "is_translation_enabled": false, 
+               "utc_offset": null, 
+               "statuses_count": 1932, 
+               "description": "Chairman, RPG Enterprises. Loves people, art, food, cricket", 
+               "friends_count": 99, 
+               "location": "Mumbai", 
+               "profile_link_color": "1DA1F2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/895728174910251009/q03N4ZpE_normal.jpg", 
+               "following": false, 
+               "geo_enabled": false, 
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/39488770/1498372455", 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+               "screen_name": "hvgoenka", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 23986, 
+               "name": "Harsh Goenka", 
+               "notifications": false, 
+               "url": "https://t.co/VKD5h9QQtH", 
+               "created_at": "Tue May 12 12:34:16 +0000 2009", 
+               "contributors_enabled": false, 
+               "time_zone": null, 
+               "protected": false, 
+               "default_profile": true, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 16:26:25 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+               "media": [
+                  {
+                     "additional_media_info": {
+                        "monetizable": false
+                     }, 
+                     "source_user_id": 3283473416, 
+                     "source_status_id_str": "906853626475188225", 
+                     "expanded_url": "https://twitter.com/ErnestSIII/status/906853626475188225/video/1", 
+                     "display_url": "pic.twitter.com/2Ngbz5jNq7", 
+                     "url": "https://t.co/2Ngbz5jNq7", 
+                     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906853522590724098/pu/img/0aOfMLwncVLJDEAs.jpg", 
+                     "source_user_id_str": "3283473416", 
+                     "source_status_id": 906853626475188225, 
+                     "video_info": {
+                        "aspect_ratio": [
+                           360, 
+                           203
+                        ], 
+                        "duration_millis": 28641, 
+                        "variants": [
+                           {
+                              "url": "https://video.twimg.com/ext_tw_video/906853522590724098/pu/pl/50Uw-gyiA7w9qVKp.m3u8", 
+                              "content_type": "application/x-mpegURL"
+                           }, 
+                           {
+                              "url": "https://video.twimg.com/ext_tw_video/906853522590724098/pu/vid/318x180/mDo4KZoXg5SNF4ER.mp4", 
+                              "bitrate": 320000, 
+                              "content_type": "video/mp4"
+                           }, 
+                           {
+                              "url": "https://video.twimg.com/ext_tw_video/906853522590724098/pu/vid/638x360/FCV0QtU5a7WQ3BfY.mp4", 
+                              "bitrate": 832000, 
+                              "content_type": "video/mp4"
+                           }
+                        ]
+                     }, 
+                     "id_str": "906853522590724098", 
+                     "sizes": {
+                        "large": {
+                           "h": 406, 
+                           "resize": "fit", 
+                           "w": 720
+                        }, 
+                        "small": {
+                           "h": 192, 
+                           "resize": "fit", 
+                           "w": 340
+                        }, 
+                        "medium": {
+                           "h": 338, 
+                           "resize": "fit", 
+                           "w": 600
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        40, 
+                        63
+                     ], 
+                     "type": "video", 
+                     "id": 906853522590724098, 
+                     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906853522590724098/pu/img/0aOfMLwncVLJDEAs.jpg"
+                  }
+               ]
+            }, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 271592254, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/851689503714668544/q-7WnVfk_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 1262, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "271592254", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 5, 
+            "is_translation_enabled": false, 
+            "utc_offset": 7200, 
+            "statuses_count": 8600, 
+            "description": "fun lovin, God fearing....aiming for beyond the sky!! lets go.. I follow back...m\n\nKaizer Chiefs , Arsenal , Real Madrid", 
+            "friends_count": 3109, 
+            "location": "Johannesburg, Gauteng", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/851689503714668544/q-7WnVfk_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/271592254/1399386887", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "iam_thulani", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 3872, 
+            "name": "USB Link!", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Thu Mar 24 20:35:00 +0000 2011", 
+            "contributors_enabled": false, 
+            "time_zone": "Pretoria", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "possibly_sensitive": false, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:03:53 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "extended_entities": {
+            "media": [
+               {
+                  "additional_media_info": {
+                     "monetizable": false
+                  }, 
+                  "source_user_id": 3283473416, 
+                  "source_status_id_str": "906853626475188225", 
+                  "expanded_url": "https://twitter.com/ErnestSIII/status/906853626475188225/video/1", 
+                  "display_url": "pic.twitter.com/2Ngbz5jNq7", 
+                  "url": "https://t.co/2Ngbz5jNq7", 
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906853522590724098/pu/img/0aOfMLwncVLJDEAs.jpg", 
+                  "source_user_id_str": "3283473416", 
+                  "source_status_id": 906853626475188225, 
+                  "video_info": {
+                     "aspect_ratio": [
+                        360, 
+                        203
+                     ], 
+                     "duration_millis": 28641, 
+                     "variants": [
+                        {
+                           "url": "https://video.twimg.com/ext_tw_video/906853522590724098/pu/pl/50Uw-gyiA7w9qVKp.m3u8", 
+                           "content_type": "application/x-mpegURL"
+                        }, 
+                        {
+                           "url": "https://video.twimg.com/ext_tw_video/906853522590724098/pu/vid/318x180/mDo4KZoXg5SNF4ER.mp4", 
+                           "bitrate": 320000, 
+                           "content_type": "video/mp4"
+                        }, 
+                        {
+                           "url": "https://video.twimg.com/ext_tw_video/906853522590724098/pu/vid/638x360/FCV0QtU5a7WQ3BfY.mp4", 
+                           "bitrate": 832000, 
+                           "content_type": "video/mp4"
+                        }
+                     ]
+                  }, 
+                  "id_str": "906853522590724098", 
+                  "sizes": {
+                     "large": {
+                        "h": 406, 
+                        "resize": "fit", 
+                        "w": 720
+                     }, 
+                     "small": {
+                        "h": 192, 
+                        "resize": "fit", 
+                        "w": 340
+                     }, 
+                     "medium": {
+                        "h": 338, 
+                        "resize": "fit", 
+                        "w": 600
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     54, 
+                     77
+                  ], 
+                  "type": "video", 
+                  "id": 906853522590724098, 
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906853522590724098/pu/img/0aOfMLwncVLJDEAs.jpg"
+               }
+            ]
+         }, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @CotneFularia: Just one word :Heartbreaking \ud83d\ude14\nHow could someone do this ?\nPlease don't act like them \ud83d\ude4f \n#HurrcaneIrma #HurricaneIrma #Ir\u2026", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907545195771830272, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 817327718350147584, 
+                  "indices": [
+                     3, 
+                     16
+                  ], 
+                  "id_str": "817327718350147584", 
+                  "screen_name": "CotneFularia", 
+                  "name": "cotne fularia"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     107, 
+                     120
+                  ], 
+                  "text": "HurrcaneIrma"
+               }, 
+               {
+                  "indices": [
+                     121, 
+                     135
+                  ], 
+                  "text": "HurricaneIrma"
+               }
+            ], 
+            "urls": []
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 849, 
+         "id_str": "907545195771830272", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": true, 
+            "text": "Just one word :Heartbreaking \ud83d\ude14\nHow could someone do this ?\nPlease don't act like them \ud83d\ude4f \n#HurrcaneIrma\u2026 https://t.co/szHcGnV2FL", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906925615353417728, 
+            "favorite_count": 1376, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        89, 
+                        102
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [
+                  {
+                     "url": "https://t.co/szHcGnV2FL", 
+                     "indices": [
+                        104, 
+                        127
+                     ], 
+                     "expanded_url": "https://twitter.com/i/web/status/906925615353417728", 
+                     "display_url": "twitter.com/i/web/status/9\u2026"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 849, 
+            "id_str": "906925615353417728", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 817327718350147584, 
+               "profile_background_image_url_https": null, 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "333333", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/906898262115921922/4HzBQ7Dt_normal.jpg", 
+               "profile_sidebar_fill_color": "DDEEF6", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 53, 
+               "profile_sidebar_border_color": "C0DEED", 
+               "id_str": "817327718350147584", 
+               "profile_background_color": "F5F8FA", 
+               "listed_count": 3, 
+               "is_translation_enabled": false, 
+               "utc_offset": -25200, 
+               "statuses_count": 13, 
+               "description": "", 
+               "friends_count": 168, 
+               "location": "", 
+               "profile_link_color": "1DA1F2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/906898262115921922/4HzBQ7Dt_normal.jpg", 
+               "following": false, 
+               "geo_enabled": false, 
+               "profile_background_image_url": null, 
+               "screen_name": "CotneFularia", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 20, 
+               "name": "cotne fularia", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Fri Jan 06 11:11:28 +0000 2017", 
+               "contributors_enabled": false, 
+               "time_zone": "Pacific Time (US & Canada)", 
+               "protected": false, 
+               "default_profile": true, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 17:01:31 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 548568736, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif", 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/901298561559789575/OSmZ3aOt_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 355, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "548568736", 
+            "profile_background_color": "000000", 
+            "listed_count": 16, 
+            "is_translation_enabled": false, 
+            "utc_offset": 10800, 
+            "statuses_count": 51088, 
+            "description": "dead inside but still horny", 
+            "friends_count": 241, 
+            "location": "Paris, France", 
+            "profile_link_color": "F58EA8", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/901298561559789575/OSmZ3aOt_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/548568736/1504733638", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif", 
+            "screen_name": "issamakiii", 
+            "lang": "fr", 
+            "profile_background_tile": false, 
+            "favourites_count": 4721, 
+            "name": "Petasse", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sun Apr 08 17:03:25 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Athens", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:03:30 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @Darlene26811165: #HurrcaneIrma Spongebob spotted leaving Key West and Bikini Bottom https://t.co/ctVqviwa7j", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907545010358374400, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 843978458929807361, 
+                  "indices": [
+                     3, 
+                     19
+                  ], 
+                  "id_str": "843978458929807361", 
+                  "screen_name": "Darlene26811165", 
+                  "name": "D.T."
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     21, 
+                     34
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": [], 
+            "media": [
+               {
+                  "source_user_id": 843978458929807361, 
+                  "source_status_id_str": "906839088044675073", 
+                  "expanded_url": "https://twitter.com/Darlene26811165/status/906839088044675073/photo/1", 
+                  "display_url": "pic.twitter.com/ctVqviwa7j", 
+                  "url": "https://t.co/ctVqviwa7j", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJW9Vj6UEAAv8qk.jpg", 
+                  "source_user_id_str": "843978458929807361", 
+                  "source_status_id": 906839088044675073, 
+                  "id_str": "906839078099750912", 
+                  "sizes": {
+                     "large": {
+                        "h": 808, 
+                        "resize": "fit", 
+                        "w": 1071
+                     }, 
+                     "small": {
+                        "h": 513, 
+                        "resize": "fit", 
+                        "w": 680
+                     }, 
+                     "medium": {
+                        "h": 808, 
+                        "resize": "fit", 
+                        "w": 1071
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     88, 
+                     111
+                  ], 
+                  "type": "photo", 
+                  "id": 906839078099750912, 
+                  "media_url": "http://pbs.twimg.com/media/DJW9Vj6UEAAv8qk.jpg"
+               }
+            ]
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 8865, 
+         "id_str": "907545010358374400", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "#HurrcaneIrma Spongebob spotted leaving Key West and Bikini Bottom https://t.co/ctVqviwa7j", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906839088044675073, 
+            "favorite_count": 20452, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        0, 
+                        13
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [], 
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/Darlene26811165/status/906839088044675073/photo/1", 
+                     "display_url": "pic.twitter.com/ctVqviwa7j", 
+                     "url": "https://t.co/ctVqviwa7j", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJW9Vj6UEAAv8qk.jpg", 
+                     "id_str": "906839078099750912", 
+                     "sizes": {
+                        "large": {
+                           "h": 808, 
+                           "resize": "fit", 
+                           "w": 1071
+                        }, 
+                        "small": {
+                           "h": 513, 
+                           "resize": "fit", 
+                           "w": 680
+                        }, 
+                        "medium": {
+                           "h": 808, 
+                           "resize": "fit", 
+                           "w": 1071
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        67, 
+                        90
+                     ], 
+                     "type": "photo", 
+                     "id": 906839078099750912, 
+                     "media_url": "http://pbs.twimg.com/media/DJW9Vj6UEAAv8qk.jpg"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 8865, 
+            "id_str": "906839088044675073", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 843978458929807361, 
+               "profile_background_image_url_https": null, 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "333333", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/907240310442520578/ja-goisT_normal.jpg", 
+               "profile_sidebar_fill_color": "DDEEF6", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 149, 
+               "profile_sidebar_border_color": "C0DEED", 
+               "id_str": "843978458929807361", 
+               "profile_background_color": "F5F8FA", 
+               "listed_count": 11, 
+               "is_translation_enabled": false, 
+               "utc_offset": null, 
+               "statuses_count": 447, 
+               "description": "", 
+               "friends_count": 59, 
+               "location": "", 
+               "profile_link_color": "1DA1F2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/907240310442520578/ja-goisT_normal.jpg", 
+               "following": false, 
+               "geo_enabled": false, 
+               "profile_background_image_url": null, 
+               "screen_name": "Darlene26811165", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 743, 
+               "name": "D.T.", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Tue Mar 21 00:11:59 +0000 2017", 
+               "contributors_enabled": false, 
+               "time_zone": null, 
+               "protected": false, 
+               "default_profile": true, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 11:17:41 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/Darlene26811165/status/906839088044675073/photo/1", 
+                     "display_url": "pic.twitter.com/ctVqviwa7j", 
+                     "url": "https://t.co/ctVqviwa7j", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJW9Vj6UEAAv8qk.jpg", 
+                     "id_str": "906839078099750912", 
+                     "sizes": {
+                        "large": {
+                           "h": 808, 
+                           "resize": "fit", 
+                           "w": 1071
+                        }, 
+                        "small": {
+                           "h": 513, 
+                           "resize": "fit", 
+                           "w": 680
+                        }, 
+                        "medium": {
+                           "h": 808, 
+                           "resize": "fit", 
+                           "w": 1071
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        67, 
+                        90
+                     ], 
+                     "type": "photo", 
+                     "id": 906839078099750912, 
+                     "media_url": "http://pbs.twimg.com/media/DJW9Vj6UEAAv8qk.jpg"
+                  }
+               ]
+            }, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 604638430, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/906304067776983041/F-ms9kYW_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 2832, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "604638430", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 35, 
+            "is_translation_enabled": false, 
+            "utc_offset": -14400, 
+            "statuses_count": 238822, 
+            "description": "whatever happens on earth, stays on earth", 
+            "friends_count": 2533, 
+            "location": "Jaylen", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/906304067776983041/F-ms9kYW_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/604638430/1498183613", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "stfutam", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 93979, 
+            "name": "\ud83e\udd8b", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sun Jun 10 16:16:13 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "possibly_sensitive": true, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:02:46 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "extended_entities": {
+            "media": [
+               {
+                  "source_user_id": 843978458929807361, 
+                  "source_status_id_str": "906839088044675073", 
+                  "expanded_url": "https://twitter.com/Darlene26811165/status/906839088044675073/photo/1", 
+                  "display_url": "pic.twitter.com/ctVqviwa7j", 
+                  "url": "https://t.co/ctVqviwa7j", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJW9Vj6UEAAv8qk.jpg", 
+                  "source_user_id_str": "843978458929807361", 
+                  "source_status_id": 906839088044675073, 
+                  "id_str": "906839078099750912", 
+                  "sizes": {
+                     "large": {
+                        "h": 808, 
+                        "resize": "fit", 
+                        "w": 1071
+                     }, 
+                     "small": {
+                        "h": 513, 
+                        "resize": "fit", 
+                        "w": 680
+                     }, 
+                     "medium": {
+                        "h": 808, 
+                        "resize": "fit", 
+                        "w": 1071
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     88, 
+                     111
+                  ], 
+                  "type": "photo", 
+                  "id": 906839078099750912, 
+                  "media_url": "http://pbs.twimg.com/media/DJW9Vj6UEAAv8qk.jpg"
+               }
+            ]
+         }, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @HandyRed: Have the best day possible all that is affected by #HurrcaneIrma stay safe!\n@WWERomanReigns love you Champ.. Stay safe!! #God\u2026", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907544855009787905, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 3160747192, 
+                  "indices": [
+                     3, 
+                     12
+                  ], 
+                  "id_str": "3160747192", 
+                  "screen_name": "HandyRed", 
+                  "name": "Handy Roman's Rules"
+               }, 
+               {
+                  "id": 739417207, 
+                  "indices": [
+                     90, 
+                     105
+                  ], 
+                  "id_str": "739417207", 
+                  "screen_name": "WWERomanReigns", 
+                  "name": "Roman Reigns"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     65, 
+                     78
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": []
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 13, 
+         "id_str": "907544855009787905", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": true, 
+            "text": "Have the best day possible all that is affected by #HurrcaneIrma stay safe!\n@WWERomanReigns love you Champ.. Stay s\u2026 https://t.co/jU9iOiS4Iw", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906946391238483971, 
+            "favorite_count": 48, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [
+                  {
+                     "id": 739417207, 
+                     "indices": [
+                        76, 
+                        91
+                     ], 
+                     "id_str": "739417207", 
+                     "screen_name": "WWERomanReigns", 
+                     "name": "Roman Reigns"
+                  }
+               ], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        51, 
+                        64
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [
+                  {
+                     "url": "https://t.co/jU9iOiS4Iw", 
+                     "indices": [
+                        117, 
+                        140
+                     ], 
+                     "expanded_url": "https://twitter.com/i/web/status/906946391238483971", 
+                     "display_url": "twitter.com/i/web/status/9\u2026"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 13, 
+            "id_str": "906946391238483971", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 3160747192, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "333333", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/897840151623344130/X3mWaVmH_normal.jpg", 
+               "profile_sidebar_fill_color": "DDEEF6", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 9507, 
+               "profile_sidebar_border_color": "C0DEED", 
+               "id_str": "3160747192", 
+               "profile_background_color": "C0DEED", 
+               "listed_count": 46, 
+               "is_translation_enabled": false, 
+               "utc_offset": null, 
+               "statuses_count": 82542, 
+               "description": "I'm just me. \n\u25c7 @WWERomanReigns is my Legend.. \nI believe in him.. I respect him.. I value \nhim. If you don't.. stay out of my YARD!", 
+               "friends_count": 466, 
+               "location": "In Roman's Yard!... luxury", 
+               "profile_link_color": "1DA1F2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/897840151623344130/X3mWaVmH_normal.jpg", 
+               "following": false, 
+               "geo_enabled": true, 
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/3160747192/1504927749", 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+               "screen_name": "HandyRed", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 57706, 
+               "name": "Handy Roman's Rules", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Sun Apr 12 18:01:47 +0000 2015", 
+               "contributors_enabled": false, 
+               "time_zone": null, 
+               "protected": false, 
+               "default_profile": true, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 18:24:04 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 811315393025474565, 
+            "profile_background_image_url_https": null, 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/906615455699423233/dgWkLgTE_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 2875, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "811315393025474565", 
+            "profile_background_color": "F5F8FA", 
+            "listed_count": 10, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 15125, 
+            "description": "Wwe Raw Charlotte Flair Roman Reigns Sasha Banks Seth Rollins Sami Zayn Stephanie Mcmahon Mick Foley Rick Flair Dean Ambrose Becky Lynch Carmella Naomi The Usos", 
+            "friends_count": 4486, 
+            "location": "Czaplinek gmina, Polska", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/906615455699423233/dgWkLgTE_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/811315393025474565/1495363859", 
+            "profile_background_image_url": null, 
+            "screen_name": "IwonaNeumiler", 
+            "lang": "pl", 
+            "profile_background_tile": false, 
+            "favourites_count": 15319, 
+            "name": "Charlotte Flair", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Tue Dec 20 21:00:38 +0000 2016", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:02:09 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @American1765: #NFLSunday \nHiIIary Causes More Destruction To The Future Of The Democrat Party\nThan #HurrcaneIrma As She Blames White Pp\u2026", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907544785585688577, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 709479371380097024, 
+                  "indices": [
+                     3, 
+                     16
+                  ], 
+                  "id_str": "709479371380097024", 
+                  "screen_name": "American1765", 
+                  "name": "AIiceInTwitt\u20acrLand\ud83d\udc60"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     18, 
+                     28
+                  ], 
+                  "text": "NFLSunday"
+               }, 
+               {
+                  "indices": [
+                     103, 
+                     116
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": []
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 1258, 
+         "id_str": "907544785585688577", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": true, 
+            "text": "#NFLSunday \nHiIIary Causes More Destruction To The Future Of The Democrat Party\nThan #HurrcaneIrma As She Blames Wh\u2026 https://t.co/kWn8DVM7yx", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906958958249652224, 
+            "favorite_count": 1487, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        0, 
+                        10
+                     ], 
+                     "text": "NFLSunday"
+                  }, 
+                  {
+                     "indices": [
+                        85, 
+                        98
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [
+                  {
+                     "url": "https://t.co/kWn8DVM7yx", 
+                     "indices": [
+                        117, 
+                        140
+                     ], 
+                     "expanded_url": "https://twitter.com/i/web/status/906958958249652224", 
+                     "display_url": "twitter.com/i/web/status/9\u2026"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 1258, 
+            "id_str": "906958958249652224", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": false, 
+               "default_profile_image": false, 
+               "id": 709479371380097024, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "000000", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/907112481855651840/TjpJqpNm_normal.jpg", 
+               "profile_sidebar_fill_color": "000000", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 38434, 
+               "profile_sidebar_border_color": "000000", 
+               "id_str": "709479371380097024", 
+               "profile_background_color": "000000", 
+               "listed_count": 60, 
+               "is_translation_enabled": false, 
+               "utc_offset": -18000, 
+               "statuses_count": 88265, 
+               "description": "PeopleCallMeAlice \ud83c\uddfa\ud83c\uddf8 MAGAMuchness @realdonaldtrump @POTUS IsMyHero PatriotsAreMakingAmericaGreatAgain IfUDontHavaSenseOfHumorPlzGTFO", 
+               "friends_count": 2083, 
+               "location": "Twitt\u20acrLand", 
+               "profile_link_color": "1B95E0", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/907112481855651840/TjpJqpNm_normal.jpg", 
+               "following": false, 
+               "geo_enabled": false, 
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/709479371380097024/1505169539", 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+               "screen_name": "American1765", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 70278, 
+               "name": "AIiceInTwitt\u20acrLand\ud83d\udc60", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Mon Mar 14 20:40:38 +0000 2016", 
+               "contributors_enabled": false, 
+               "time_zone": "Mexico City", 
+               "protected": false, 
+               "default_profile": false, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 19:14:00 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 552939237, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/722253552194818048/w1ThiKWn_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+               "url": {
+                  "urls": [
+                     {
+                        "url": "https://t.co/bdxNR5Cr1f", 
+                        "indices": [
+                           0, 
+                           23
+                        ], 
+                        "expanded_url": "https://www.facebook.com/molennewsmedia", 
+                        "display_url": "facebook.com/molennewsmedia"
+                     }
+                  ]
+               }, 
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 1063, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "552939237", 
+            "profile_background_color": "000000", 
+            "listed_count": 23, 
+            "is_translation_enabled": false, 
+            "utc_offset": -14400, 
+            "statuses_count": 21718, 
+            "description": "Reporting the truth and accuracy in media news. I like to re-tweet the news to help inform. Always use common sense & logic. Don't ignore the obvious.", 
+            "friends_count": 2339, 
+            "location": "Tampa Bay, Florida", 
+            "profile_link_color": "1B95E0", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/722253552194818048/w1ThiKWn_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/552939237/1460689088", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "screen_name": "MolenNewsMedia", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1875, 
+            "name": "Molen News Media", 
+            "notifications": false, 
+            "url": "https://t.co/bdxNR5Cr1f", 
+            "created_at": "Fri Apr 13 17:08:33 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:01:52 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @moethemyth: This..... #HurrcaneIrma https://t.co/ahhJd6C3sV", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907544764655968256, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 129880735, 
+                  "indices": [
+                     3, 
+                     14
+                  ], 
+                  "id_str": "129880735", 
+                  "screen_name": "moethemyth", 
+                  "name": "Moe"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     26, 
+                     39
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": [], 
+            "media": [
+               {
+                  "source_user_id": 129880735, 
+                  "source_status_id_str": "906801631043506176", 
+                  "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                  "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                  "url": "https://t.co/ahhJd6C3sV", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                  "source_user_id_str": "129880735", 
+                  "source_status_id": 906801631043506176, 
+                  "id_str": "906801606615863296", 
+                  "sizes": {
+                     "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 614
+                     }, 
+                     "large": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "medium": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     40, 
+                     63
+                  ], 
+                  "type": "photo", 
+                  "id": 906801606615863296, 
+                  "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+               }
+            ]
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 9057, 
+         "id_str": "907544764655968256", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This..... #HurrcaneIrma https://t.co/ahhJd6C3sV", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906801631043506176, 
+            "favorite_count": 13940, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        10, 
+                        23
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [], 
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                     "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                     "url": "https://t.co/ahhJd6C3sV", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                     "id_str": "906801606615863296", 
+                     "sizes": {
+                        "small": {
+                           "h": 680, 
+                           "resize": "fit", 
+                           "w": 614
+                        }, 
+                        "large": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "medium": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        24, 
+                        47
+                     ], 
+                     "type": "photo", 
+                     "id": 906801606615863296, 
+                     "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 9057, 
+            "id_str": "906801631043506176", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 129880735, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "333333", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/860612739076685826/MUcSb1qE_normal.jpg", 
+               "profile_sidebar_fill_color": "DDEEF6", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 92186, 
+               "profile_sidebar_border_color": "C0DEED", 
+               "id_str": "129880735", 
+               "profile_background_color": "C0DEED", 
+               "listed_count": 158, 
+               "is_translation_enabled": false, 
+               "utc_offset": null, 
+               "statuses_count": 30505, 
+               "description": "Views are my own & do not reflect the views of my employer. RT's are not endorsements. IG : agooner786", 
+               "friends_count": 74710, 
+               "location": "London/Luton", 
+               "profile_link_color": "1DA1F2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/860612739076685826/MUcSb1qE_normal.jpg", 
+               "following": false, 
+               "geo_enabled": true, 
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/129880735/1428227592", 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+               "screen_name": "moethemyth", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 30186, 
+               "name": "Moe", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Mon Apr 05 17:58:17 +0000 2010", 
+               "contributors_enabled": false, 
+               "time_zone": null, 
+               "protected": false, 
+               "default_profile": true, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 08:48:51 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                     "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                     "url": "https://t.co/ahhJd6C3sV", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                     "id_str": "906801606615863296", 
+                     "sizes": {
+                        "small": {
+                           "h": 680, 
+                           "resize": "fit", 
+                           "w": 614
+                        }, 
+                        "large": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "medium": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        24, 
+                        47
+                     ], 
+                     "type": "photo", 
+                     "id": 906801606615863296, 
+                     "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+                  }
+               ]
+            }, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 804949932767490052, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/902827150335557632/pZ1e6bD9_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 43, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "804949932767490052", 
+            "profile_background_color": "000000", 
+            "listed_count": 0, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 746, 
+            "description": "Not me in the profile picture.\nYou never know, I am full of surprises. \nSend me dick pics and I will make sure I cut it into two and send it back to you again.!", 
+            "friends_count": 29, 
+            "location": "Sri Lanka", 
+            "profile_link_color": "E81C4F", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/902827150335557632/pZ1e6bD9_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/804949932767490052/1504199304", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "mariasmathews", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 760, 
+            "name": "MariaShalini Mathews", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sat Dec 03 07:26:34 +0000 2016", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "possibly_sensitive": false, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:01:47 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "extended_entities": {
+            "media": [
+               {
+                  "source_user_id": 129880735, 
+                  "source_status_id_str": "906801631043506176", 
+                  "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                  "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                  "url": "https://t.co/ahhJd6C3sV", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                  "source_user_id_str": "129880735", 
+                  "source_status_id": 906801631043506176, 
+                  "id_str": "906801606615863296", 
+                  "sizes": {
+                     "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 614
+                     }, 
+                     "large": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "medium": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     40, 
+                     63
+                  ], 
+                  "type": "photo", 
+                  "id": 906801606615863296, 
+                  "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+               }
+            ]
+         }, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @Genz38: Ok now I'm starting to get scared #HurrcaneIrma https://t.co/Jx1qxXhPWd", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907544696129507328, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 844509082249838592, 
+                  "indices": [
+                     3, 
+                     10
+                  ], 
+                  "id_str": "844509082249838592", 
+                  "screen_name": "Genz38", 
+                  "name": "G"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     46, 
+                     59
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": [], 
+            "media": [
+               {
+                  "source_user_id": 786369186020720640, 
+                  "source_status_id_str": "906698056598507520", 
+                  "expanded_url": "https://twitter.com/thesehunnads/status/906698056598507520/video/1", 
+                  "display_url": "pic.twitter.com/Jx1qxXhPWd", 
+                  "url": "https://t.co/Jx1qxXhPWd", 
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg", 
+                  "source_user_id_str": "786369186020720640", 
+                  "source_status_id": 906698056598507520, 
+                  "id_str": "906697920317054976", 
+                  "sizes": {
+                     "small": {
+                        "h": 191, 
+                        "resize": "fit", 
+                        "w": 340
+                     }, 
+                     "large": {
+                        "h": 360, 
+                        "resize": "fit", 
+                        "w": 640
+                     }, 
+                     "medium": {
+                        "h": 338, 
+                        "resize": "fit", 
+                        "w": 600
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     60, 
+                     83
+                  ], 
+                  "type": "photo", 
+                  "id": 906697920317054976, 
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg"
+               }
+            ]
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 14006, 
+         "id_str": "907544696129507328", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Ok now I'm starting to get scared #HurrcaneIrma https://t.co/Jx1qxXhPWd", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906828868123754496, 
+            "favorite_count": 23533, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        34, 
+                        47
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [], 
+               "media": [
+                  {
+                     "source_user_id": 786369186020720640, 
+                     "source_status_id_str": "906698056598507520", 
+                     "expanded_url": "https://twitter.com/thesehunnads/status/906698056598507520/video/1", 
+                     "display_url": "pic.twitter.com/Jx1qxXhPWd", 
+                     "url": "https://t.co/Jx1qxXhPWd", 
+                     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg", 
+                     "source_user_id_str": "786369186020720640", 
+                     "source_status_id": 906698056598507520, 
+                     "id_str": "906697920317054976", 
+                     "sizes": {
+                        "small": {
+                           "h": 191, 
+                           "resize": "fit", 
+                           "w": 340
+                        }, 
+                        "large": {
+                           "h": 360, 
+                           "resize": "fit", 
+                           "w": 640
+                        }, 
+                        "medium": {
+                           "h": 338, 
+                           "resize": "fit", 
+                           "w": 600
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        48, 
+                        71
+                     ], 
+                     "type": "photo", 
+                     "id": 906697920317054976, 
+                     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 14006, 
+            "id_str": "906828868123754496", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": false, 
+               "default_profile_image": false, 
+               "id": 844509082249838592, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "000000", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/886037015787171840/UuT_1GFI_normal.jpg", 
+               "profile_sidebar_fill_color": "000000", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 503, 
+               "profile_sidebar_border_color": "000000", 
+               "id_str": "844509082249838592", 
+               "profile_background_color": "000000", 
+               "listed_count": 3, 
+               "is_translation_enabled": false, 
+               "utc_offset": -25200, 
+               "statuses_count": 6602, 
+               "description": "@genz38 \ud83d\udc95 19", 
+               "friends_count": 222, 
+               "location": "", 
+               "profile_link_color": "ABB8C2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/886037015787171840/UuT_1GFI_normal.jpg", 
+               "following": false, 
+               "geo_enabled": false, 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+               "screen_name": "Genz38", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 2, 
+               "name": "G", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Wed Mar 22 11:20:30 +0000 2017", 
+               "contributors_enabled": false, 
+               "time_zone": "Pacific Time (US & Canada)", 
+               "protected": false, 
+               "default_profile": false, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 10:37:04 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+               "media": [
+                  {
+                     "additional_media_info": {
+                        "monetizable": false
+                     }, 
+                     "source_user_id": 786369186020720640, 
+                     "source_status_id_str": "906698056598507520", 
+                     "expanded_url": "https://twitter.com/thesehunnads/status/906698056598507520/video/1", 
+                     "display_url": "pic.twitter.com/Jx1qxXhPWd", 
+                     "url": "https://t.co/Jx1qxXhPWd", 
+                     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg", 
+                     "source_user_id_str": "786369186020720640", 
+                     "source_status_id": 906698056598507520, 
+                     "video_info": {
+                        "aspect_ratio": [
+                           16, 
+                           9
+                        ], 
+                        "duration_millis": 31565, 
+                        "variants": [
+                           {
+                              "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/pl/uCH-hMhUNxmozlaF.m3u8", 
+                              "content_type": "application/x-mpegURL"
+                           }, 
+                           {
+                              "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/vid/640x360/fy6THR6scL518nJC.mp4", 
+                              "bitrate": 832000, 
+                              "content_type": "video/mp4"
+                           }, 
+                           {
+                              "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/vid/320x180/qRgr539vb4Zv256_.mp4", 
+                              "bitrate": 320000, 
+                              "content_type": "video/mp4"
+                           }
+                        ]
+                     }, 
+                     "id_str": "906697920317054976", 
+                     "sizes": {
+                        "small": {
+                           "h": 191, 
+                           "resize": "fit", 
+                           "w": 340
+                        }, 
+                        "large": {
+                           "h": 360, 
+                           "resize": "fit", 
+                           "w": 640
+                        }, 
+                        "medium": {
+                           "h": 338, 
+                           "resize": "fit", 
+                           "w": 600
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        48, 
+                        71
+                     ], 
+                     "type": "video", 
+                     "id": 906697920317054976, 
+                     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg"
+                  }
+               ]
+            }, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 147289067, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623248392379068417/Jsw4BQx5.jpg", 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/904771119684706304/t7trzQEc_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+               "url": {
+                  "urls": [
+                     {
+                        "url": "https://t.co/XesN0kFwNF", 
+                        "indices": [
+                           0, 
+                           23
+                        ], 
+                        "expanded_url": "http://Instagram.com/alexsz1", 
+                        "display_url": "Instagram.com/alexsz1"
+                     }
+                  ]
+               }, 
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 2604, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "147289067", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 119, 
+            "is_translation_enabled": false, 
+            "utc_offset": 7200, 
+            "statuses_count": 249675, 
+            "description": "Ilusionado por no ilusionarme y lo que surja", 
+            "friends_count": 647, 
+            "location": "Valladolid, Espa\u00f1a", 
+            "profile_link_color": "3B94D9", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/904771119684706304/t7trzQEc_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/147289067/1437082021", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623248392379068417/Jsw4BQx5.jpg", 
+            "screen_name": "alexsz1", 
+            "lang": "es", 
+            "profile_background_tile": true, 
+            "favourites_count": 36674, 
+            "name": "Alexanderrrrrr \ud83c\udf4d", 
+            "notifications": false, 
+            "url": "https://t.co/XesN0kFwNF", 
+            "created_at": "Sun May 23 18:40:49 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "Amsterdam", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "possibly_sensitive": false, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:01:31 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "extended_entities": {
+            "media": [
+               {
+                  "additional_media_info": {
+                     "monetizable": false
+                  }, 
+                  "source_user_id": 786369186020720640, 
+                  "source_status_id_str": "906698056598507520", 
+                  "expanded_url": "https://twitter.com/thesehunnads/status/906698056598507520/video/1", 
+                  "display_url": "pic.twitter.com/Jx1qxXhPWd", 
+                  "url": "https://t.co/Jx1qxXhPWd", 
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg", 
+                  "source_user_id_str": "786369186020720640", 
+                  "source_status_id": 906698056598507520, 
+                  "video_info": {
+                     "aspect_ratio": [
+                        16, 
+                        9
+                     ], 
+                     "duration_millis": 31565, 
+                     "variants": [
+                        {
+                           "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/pl/uCH-hMhUNxmozlaF.m3u8", 
+                           "content_type": "application/x-mpegURL"
+                        }, 
+                        {
+                           "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/vid/640x360/fy6THR6scL518nJC.mp4", 
+                           "bitrate": 832000, 
+                           "content_type": "video/mp4"
+                        }, 
+                        {
+                           "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/vid/320x180/qRgr539vb4Zv256_.mp4", 
+                           "bitrate": 320000, 
+                           "content_type": "video/mp4"
+                        }
+                     ]
+                  }, 
+                  "id_str": "906697920317054976", 
+                  "sizes": {
+                     "small": {
+                        "h": 191, 
+                        "resize": "fit", 
+                        "w": 340
+                     }, 
+                     "large": {
+                        "h": 360, 
+                        "resize": "fit", 
+                        "w": 640
+                     }, 
+                     "medium": {
+                        "h": 338, 
+                        "resize": "fit", 
+                        "w": 600
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     60, 
+                     83
+                  ], 
+                  "type": "video", 
+                  "id": 906697920317054976, 
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg"
+               }
+            ]
+         }, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @moethemyth: This..... #HurrcaneIrma https://t.co/ahhJd6C3sV", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907544690500784128, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 129880735, 
+                  "indices": [
+                     3, 
+                     14
+                  ], 
+                  "id_str": "129880735", 
+                  "screen_name": "moethemyth", 
+                  "name": "Moe"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     26, 
+                     39
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": [], 
+            "media": [
+               {
+                  "source_user_id": 129880735, 
+                  "source_status_id_str": "906801631043506176", 
+                  "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                  "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                  "url": "https://t.co/ahhJd6C3sV", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                  "source_user_id_str": "129880735", 
+                  "source_status_id": 906801631043506176, 
+                  "id_str": "906801606615863296", 
+                  "sizes": {
+                     "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 614
+                     }, 
+                     "large": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "medium": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     40, 
+                     63
+                  ], 
+                  "type": "photo", 
+                  "id": 906801606615863296, 
+                  "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+               }
+            ]
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 9057, 
+         "id_str": "907544690500784128", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This..... #HurrcaneIrma https://t.co/ahhJd6C3sV", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906801631043506176, 
+            "favorite_count": 13940, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        10, 
+                        23
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [], 
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                     "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                     "url": "https://t.co/ahhJd6C3sV", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                     "id_str": "906801606615863296", 
+                     "sizes": {
+                        "small": {
+                           "h": 680, 
+                           "resize": "fit", 
+                           "w": 614
+                        }, 
+                        "large": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "medium": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        24, 
+                        47
+                     ], 
+                     "type": "photo", 
+                     "id": 906801606615863296, 
+                     "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 9057, 
+            "id_str": "906801631043506176", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 129880735, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "333333", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/860612739076685826/MUcSb1qE_normal.jpg", 
+               "profile_sidebar_fill_color": "DDEEF6", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 92186, 
+               "profile_sidebar_border_color": "C0DEED", 
+               "id_str": "129880735", 
+               "profile_background_color": "C0DEED", 
+               "listed_count": 158, 
+               "is_translation_enabled": false, 
+               "utc_offset": null, 
+               "statuses_count": 30505, 
+               "description": "Views are my own & do not reflect the views of my employer. RT's are not endorsements. IG : agooner786", 
+               "friends_count": 74710, 
+               "location": "London/Luton", 
+               "profile_link_color": "1DA1F2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/860612739076685826/MUcSb1qE_normal.jpg", 
+               "following": false, 
+               "geo_enabled": true, 
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/129880735/1428227592", 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+               "screen_name": "moethemyth", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 30186, 
+               "name": "Moe", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Mon Apr 05 17:58:17 +0000 2010", 
+               "contributors_enabled": false, 
+               "time_zone": null, 
+               "protected": false, 
+               "default_profile": true, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 08:48:51 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                     "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                     "url": "https://t.co/ahhJd6C3sV", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                     "id_str": "906801606615863296", 
+                     "sizes": {
+                        "small": {
+                           "h": 680, 
+                           "resize": "fit", 
+                           "w": 614
+                        }, 
+                        "large": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "medium": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        24, 
+                        47
+                     ], 
+                     "type": "photo", 
+                     "id": 906801606615863296, 
+                     "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+                  }
+               ]
+            }, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 214055318, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "666666", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/905130985108463616/OgcxPtrw_normal.jpg", 
+            "profile_sidebar_fill_color": "252429", 
+            "entities": {
+               "url": {
+                  "urls": [
+                     {
+                        "url": "https://t.co/8mktjqpHWb", 
+                        "indices": [
+                           0, 
+                           23
+                        ], 
+                        "expanded_url": "http://www.hugorjackson.com", 
+                        "display_url": "hugorjackson.com"
+                     }
+                  ]
+               }, 
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 665, 
+            "profile_sidebar_border_color": "181A1E", 
+            "id_str": "214055318", 
+            "profile_background_color": "1A1B1F", 
+            "listed_count": 29, 
+            "is_translation_enabled": false, 
+            "utc_offset": 3600, 
+            "statuses_count": 7467, 
+            "description": "Author of fantasy series The Resonance Tetralogy; fursuiter; voice actor, INFP, FWG member, pangolin-fox hybrid. He/Him. Bisexual. Anti-Nazi. Transcendentalist.", 
+            "friends_count": 730, 
+            "location": "North Carolina, USA", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/905130985108463616/OgcxPtrw_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/214055318/1411559304", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "screen_name": "phoenixtheblade", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 32920, 
+            "name": "Hugo Jackson / Arc", 
+            "notifications": false, 
+            "url": "https://t.co/8mktjqpHWb", 
+            "created_at": "Wed Nov 10 13:11:17 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "London", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "possibly_sensitive": false, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:01:30 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "extended_entities": {
+            "media": [
+               {
+                  "source_user_id": 129880735, 
+                  "source_status_id_str": "906801631043506176", 
+                  "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                  "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                  "url": "https://t.co/ahhJd6C3sV", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                  "source_user_id_str": "129880735", 
+                  "source_status_id": 906801631043506176, 
+                  "id_str": "906801606615863296", 
+                  "sizes": {
+                     "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 614
+                     }, 
+                     "large": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "medium": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     40, 
+                     63
+                  ], 
+                  "type": "photo", 
+                  "id": 906801606615863296, 
+                  "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+               }
+            ]
+         }, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @Genz38: Ok now I'm starting to get scared #HurrcaneIrma https://t.co/Jx1qxXhPWd", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907544687065493504, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 844509082249838592, 
+                  "indices": [
+                     3, 
+                     10
+                  ], 
+                  "id_str": "844509082249838592", 
+                  "screen_name": "Genz38", 
+                  "name": "G"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     46, 
+                     59
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": [], 
+            "media": [
+               {
+                  "source_user_id": 786369186020720640, 
+                  "source_status_id_str": "906698056598507520", 
+                  "expanded_url": "https://twitter.com/thesehunnads/status/906698056598507520/video/1", 
+                  "display_url": "pic.twitter.com/Jx1qxXhPWd", 
+                  "url": "https://t.co/Jx1qxXhPWd", 
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg", 
+                  "source_user_id_str": "786369186020720640", 
+                  "source_status_id": 906698056598507520, 
+                  "id_str": "906697920317054976", 
+                  "sizes": {
+                     "small": {
+                        "h": 191, 
+                        "resize": "fit", 
+                        "w": 340
+                     }, 
+                     "large": {
+                        "h": 360, 
+                        "resize": "fit", 
+                        "w": 640
+                     }, 
+                     "medium": {
+                        "h": 338, 
+                        "resize": "fit", 
+                        "w": 600
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     60, 
+                     83
+                  ], 
+                  "type": "photo", 
+                  "id": 906697920317054976, 
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg"
+               }
+            ]
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 14006, 
+         "id_str": "907544687065493504", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Ok now I'm starting to get scared #HurrcaneIrma https://t.co/Jx1qxXhPWd", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906828868123754496, 
+            "favorite_count": 23533, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        34, 
+                        47
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [], 
+               "media": [
+                  {
+                     "source_user_id": 786369186020720640, 
+                     "source_status_id_str": "906698056598507520", 
+                     "expanded_url": "https://twitter.com/thesehunnads/status/906698056598507520/video/1", 
+                     "display_url": "pic.twitter.com/Jx1qxXhPWd", 
+                     "url": "https://t.co/Jx1qxXhPWd", 
+                     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg", 
+                     "source_user_id_str": "786369186020720640", 
+                     "source_status_id": 906698056598507520, 
+                     "id_str": "906697920317054976", 
+                     "sizes": {
+                        "small": {
+                           "h": 191, 
+                           "resize": "fit", 
+                           "w": 340
+                        }, 
+                        "large": {
+                           "h": 360, 
+                           "resize": "fit", 
+                           "w": 640
+                        }, 
+                        "medium": {
+                           "h": 338, 
+                           "resize": "fit", 
+                           "w": 600
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        48, 
+                        71
+                     ], 
+                     "type": "photo", 
+                     "id": 906697920317054976, 
+                     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 14006, 
+            "id_str": "906828868123754496", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": false, 
+               "default_profile_image": false, 
+               "id": 844509082249838592, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "000000", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/886037015787171840/UuT_1GFI_normal.jpg", 
+               "profile_sidebar_fill_color": "000000", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 503, 
+               "profile_sidebar_border_color": "000000", 
+               "id_str": "844509082249838592", 
+               "profile_background_color": "000000", 
+               "listed_count": 3, 
+               "is_translation_enabled": false, 
+               "utc_offset": -25200, 
+               "statuses_count": 6602, 
+               "description": "@genz38 \ud83d\udc95 19", 
+               "friends_count": 222, 
+               "location": "", 
+               "profile_link_color": "ABB8C2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/886037015787171840/UuT_1GFI_normal.jpg", 
+               "following": false, 
+               "geo_enabled": false, 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+               "screen_name": "Genz38", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 2, 
+               "name": "G", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Wed Mar 22 11:20:30 +0000 2017", 
+               "contributors_enabled": false, 
+               "time_zone": "Pacific Time (US & Canada)", 
+               "protected": false, 
+               "default_profile": false, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 10:37:04 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+               "media": [
+                  {
+                     "additional_media_info": {
+                        "monetizable": false
+                     }, 
+                     "source_user_id": 786369186020720640, 
+                     "source_status_id_str": "906698056598507520", 
+                     "expanded_url": "https://twitter.com/thesehunnads/status/906698056598507520/video/1", 
+                     "display_url": "pic.twitter.com/Jx1qxXhPWd", 
+                     "url": "https://t.co/Jx1qxXhPWd", 
+                     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg", 
+                     "source_user_id_str": "786369186020720640", 
+                     "source_status_id": 906698056598507520, 
+                     "video_info": {
+                        "aspect_ratio": [
+                           16, 
+                           9
+                        ], 
+                        "duration_millis": 31565, 
+                        "variants": [
+                           {
+                              "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/pl/uCH-hMhUNxmozlaF.m3u8", 
+                              "content_type": "application/x-mpegURL"
+                           }, 
+                           {
+                              "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/vid/640x360/fy6THR6scL518nJC.mp4", 
+                              "bitrate": 832000, 
+                              "content_type": "video/mp4"
+                           }, 
+                           {
+                              "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/vid/320x180/qRgr539vb4Zv256_.mp4", 
+                              "bitrate": 320000, 
+                              "content_type": "video/mp4"
+                           }
+                        ]
+                     }, 
+                     "id_str": "906697920317054976", 
+                     "sizes": {
+                        "small": {
+                           "h": 191, 
+                           "resize": "fit", 
+                           "w": 340
+                        }, 
+                        "large": {
+                           "h": 360, 
+                           "resize": "fit", 
+                           "w": 640
+                        }, 
+                        "medium": {
+                           "h": 338, 
+                           "resize": "fit", 
+                           "w": 600
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        48, 
+                        71
+                     ], 
+                     "type": "video", 
+                     "id": 906697920317054976, 
+                     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg"
+                  }
+               ]
+            }, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 7069662, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627280365/rlj7k0n9r7ikdwapzbco.png", 
+            "verified": false, 
+            "translator_type": "regular", 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/907137697906532352/XQgt3umb_normal.jpg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 1733, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "7069662", 
+            "profile_background_color": "FFFFFF", 
+            "listed_count": 19, 
+            "is_translation_enabled": false, 
+            "utc_offset": 25200, 
+            "statuses_count": 36220, 
+            "description": "\u0e1c\u0e21\u0e1a\u0e23\u0e34\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e4c (\uff62\uff65\u03c9\uff65)\uff62\r\n\u0e0a\u0e19\u0e0a\u0e31\u0e49\u0e19\u0e01\u0e25\u0e32\u0e07\r\n(\u3064 \u00af \u00b3\u00af)\u3065 {\u00ba\u03d6\u00ba} \u03a3(\uffe3\u3002\uffe3\uff89)\uff89 \r\n(\uff89)\u00b4\u2200\uff40(\u30fe) _(:3 \u300d\u2220)_", 
+            "friends_count": 641, 
+            "location": "Bangkok, TH", 
+            "profile_link_color": "34CCFF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/907137697906532352/XQgt3umb_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/7069662/1351592349", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627280365/rlj7k0n9r7ikdwapzbco.png", 
+            "screen_name": "fatgy", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 185, 
+            "name": "\u0e2e\u0e31\u0e25\u0e40\u0e25\u0e27\u0e31\u0e07\u0e01\u0e49\u0e32 \u0e2d\u0e31\u0e19\u0e14\u0e32\u0e21\u0e31\u0e19", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Mon Jun 25 14:25:15 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Hanoi", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "possibly_sensitive": false, 
+         "lang": "en", 
+         "created_at": "Tue Sep 12 10:01:29 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "extended_entities": {
+            "media": [
+               {
+                  "additional_media_info": {
+                     "monetizable": false
+                  }, 
+                  "source_user_id": 786369186020720640, 
+                  "source_status_id_str": "906698056598507520", 
+                  "expanded_url": "https://twitter.com/thesehunnads/status/906698056598507520/video/1", 
+                  "display_url": "pic.twitter.com/Jx1qxXhPWd", 
+                  "url": "https://t.co/Jx1qxXhPWd", 
+                  "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg", 
+                  "source_user_id_str": "786369186020720640", 
+                  "source_status_id": 906698056598507520, 
+                  "video_info": {
+                     "aspect_ratio": [
+                        16, 
+                        9
+                     ], 
+                     "duration_millis": 31565, 
+                     "variants": [
+                        {
+                           "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/pl/uCH-hMhUNxmozlaF.m3u8", 
+                           "content_type": "application/x-mpegURL"
+                        }, 
+                        {
+                           "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/vid/640x360/fy6THR6scL518nJC.mp4", 
+                           "bitrate": 832000, 
+                           "content_type": "video/mp4"
+                        }, 
+                        {
+                           "url": "https://video.twimg.com/ext_tw_video/906697920317054976/pu/vid/320x180/qRgr539vb4Zv256_.mp4", 
+                           "bitrate": 320000, 
+                           "content_type": "video/mp4"
+                        }
+                     ]
+                  }, 
+                  "id_str": "906697920317054976", 
+                  "sizes": {
+                     "small": {
+                        "h": 191, 
+                        "resize": "fit", 
+                        "w": 340
+                     }, 
+                     "large": {
+                        "h": 360, 
+                        "resize": "fit", 
+                        "w": 640
+                     }, 
+                     "medium": {
+                        "h": 338, 
+                        "resize": "fit", 
+                        "w": 600
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     60, 
+                     83
+                  ], 
+                  "type": "video", 
+                  "id": 906697920317054976, 
+                  "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/906697920317054976/pu/img/jKplsNz0t2FojpvD.jpg"
+               }
+            ]
+         }, 
+         "metadata": {
+            "iso_language_code": "en", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @sahil_bansiwal: #\u091c\u094d\u091e\u093e\u0928_\u0915\u093e_\u0905\u0916\u093e\u0921\u093c\u093e\n\u092c\u0924\u093e\u0913 \u0915\u093f\n\u0917\u0940\u0924\u093e \u0915\u093e \u091c\u094d\u091e\u093e\u0928 \u0915\u093f\u0938\u0928\u0947 \u092c\u094b\u0932\u093e\n\n\u0908\u0936\u094d\u0935\u0930 Tv \u092a\u0930 08:30 PM \u0938\u0947\n #HurrcaneIrma \n #GaneshVisarjan", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907544624427708417, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 830101314663227392, 
+                  "indices": [
+                     3, 
+                     18
+                  ], 
+                  "id_str": "830101314663227392", 
+                  "screen_name": "sahil_bansiwal", 
+                  "name": "Dass Sahil Bansiwal"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     20, 
+                     36
+                  ], 
+                  "text": "\u091c\u094d\u091e\u093e\u0928_\u0915\u093e_\u0905\u0916\u093e\u0921\u093c\u093e"
+               }, 
+               {
+                  "indices": [
+                     96, 
+                     109
+                  ], 
+                  "text": "HurrcaneIrma"
+               }, 
+               {
+                  "indices": [
+                     112, 
+                     127
+                  ], 
+                  "text": "GaneshVisarjan"
+               }
+            ], 
+            "urls": []
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 177, 
+         "id_str": "907544624427708417", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "#\u091c\u094d\u091e\u093e\u0928_\u0915\u093e_\u0905\u0916\u093e\u0921\u093c\u093e\n\u092c\u0924\u093e\u0913 \u0915\u093f\n\u0917\u0940\u0924\u093e \u0915\u093e \u091c\u094d\u091e\u093e\u0928 \u0915\u093f\u0938\u0928\u0947 \u092c\u094b\u0932\u093e\n\n\u0908\u0936\u094d\u0935\u0930 Tv \u092a\u0930 08:30 PM \u0938\u0947\n #HurrcaneIrma \n #GaneshVisarjan", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906942034014986240, 
+            "favorite_count": 176, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        0, 
+                        16
+                     ], 
+                     "text": "\u091c\u094d\u091e\u093e\u0928_\u0915\u093e_\u0905\u0916\u093e\u0921\u093c\u093e"
+                  }, 
+                  {
+                     "indices": [
+                        76, 
+                        89
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }, 
+                  {
+                     "indices": [
+                        92, 
+                        107
+                     ], 
+                     "text": "GaneshVisarjan"
+                  }
+               ], 
+               "urls": []
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 177, 
+            "id_str": "906942034014986240", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": true, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 830101314663227392, 
+               "profile_background_image_url_https": null, 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "333333", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/899127569412366338/7i5Tc6s9_normal.jpg", 
+               "profile_sidebar_fill_color": "DDEEF6", 
+               "entities": {
+                  "url": {
+                     "urls": [
+                        {
+                           "url": "https://t.co/8KcLgLMtWW", 
+                           "indices": [
+                              0, 
+                              23
+                           ], 
+                           "expanded_url": "http://www.jagatgururampalji.org", 
+                           "display_url": "jagatgururampalji.org"
+                        }
+                     ]
+                  }, 
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 5982, 
+               "profile_sidebar_border_color": "C0DEED", 
+               "id_str": "830101314663227392", 
+               "profile_background_color": "F5F8FA", 
+               "listed_count": 2, 
+               "is_translation_enabled": false, 
+               "utc_offset": null, 
+               "statuses_count": 43070, 
+               "description": "\ud83c\udf39I am follower of sant rampal ji maharaj \ud83c\udf39\n\n\n\n\n\n  \ud83d\udea9\u23e9\u23e9\u23e9\u23e9\ud83d\udd34sat saheb ji\ud83d\udd34\u23ea\u23ea\u23ea\u23ea\ud83d\udea9", 
+               "friends_count": 4848, 
+               "location": "Bharatpur, India", 
+               "profile_link_color": "1DA1F2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/899127569412366338/7i5Tc6s9_normal.jpg", 
+               "following": false, 
+               "geo_enabled": false, 
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/830101314663227392/1504632809", 
+               "profile_background_image_url": null, 
+               "screen_name": "sahil_bansiwal", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 17156, 
+               "name": "Dass Sahil Bansiwal", 
+               "notifications": false, 
+               "url": "https://t.co/8KcLgLMtWW", 
+               "created_at": "Fri Feb 10 17:09:10 +0000 2017", 
+               "contributors_enabled": false, 
+               "time_zone": null, 
+               "protected": false, 
+               "default_profile": true, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "hi", 
+            "created_at": "Sun Sep 10 18:06:45 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "metadata": {
+               "iso_language_code": "hi", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": true, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 887320313385684992, 
+            "profile_background_image_url_https": null, 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/887321763138371584/S0JHLxyS_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 514, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "887320313385684992", 
+            "profile_background_color": "F5F8FA", 
+            "listed_count": 2, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 12957, 
+            "description": "\u0917\u0930\u0940\u092c \u0939\u092e \u0939\u0940 \u0905\u0932\u0916 \u0905\u0932\u094d\u0932\u093e\u0939 \u0939\u0948, \u0958\u0941\u0924\u0941\u092c \u0917\u094b\u0938 \u0914\u0930 \u092a\u0940\u0930 \u0964\n\u0917\u0930\u0940\u092c \u0926\u093e\u0938 \u0916\u093e\u0932\u093f\u0915 \u0927\u0928\u0940 \u0939\u092e\u0930\u093e \u0928\u093e\u092e \u0915\u092c\u0940\u0930\u0964\u0964", 
+            "friends_count": 594, 
+            "location": "\u0938\u093e\u0908\u092a\u0941\u0930\u093e, \u091c\u092f\u092a\u0941\u0930, \u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/887321763138371584/S0JHLxyS_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/887320313385684992/1500388966", 
+            "profile_background_image_url": null, 
+            "screen_name": "MaheshDass15", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 12497, 
+            "name": "Mahesh Dass", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Tue Jul 18 14:37:03 +0000 2017", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_str": null, 
+         "lang": "hi", 
+         "created_at": "Tue Sep 12 10:01:14 +0000 2017", 
+         "in_reply_to_status_id_str": null, 
+         "place": null, 
+         "metadata": {
+            "iso_language_code": "hi", 
+            "result_type": "recent"
+         }
+      }, 
+      {
+         "contributors": null, 
+         "truncated": false, 
+         "text": "RT @moethemyth: This..... #HurrcaneIrma https://t.co/ahhJd6C3sV", 
+         "is_quote_status": false, 
+         "in_reply_to_status_id": null, 
+         "id": 907544624318881792, 
+         "favorite_count": 0, 
+         "entities": {
+            "symbols": [], 
+            "user_mentions": [
+               {
+                  "id": 129880735, 
+                  "indices": [
+                     3, 
+                     14
+                  ], 
+                  "id_str": "129880735", 
+                  "screen_name": "moethemyth", 
+                  "name": "Moe"
+               }
+            ], 
+            "hashtags": [
+               {
+                  "indices": [
+                     26, 
+                     39
+                  ], 
+                  "text": "HurrcaneIrma"
+               }
+            ], 
+            "urls": [], 
+            "media": [
+               {
+                  "source_user_id": 129880735, 
+                  "source_status_id_str": "906801631043506176", 
+                  "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                  "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                  "url": "https://t.co/ahhJd6C3sV", 
+                  "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                  "source_user_id_str": "129880735", 
+                  "source_status_id": 906801631043506176, 
+                  "id_str": "906801606615863296", 
+                  "sizes": {
+                     "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 614
+                     }, 
+                     "large": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "medium": {
+                        "h": 1195, 
+                        "resize": "fit", 
+                        "w": 1079
+                     }, 
+                     "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                     }
+                  }, 
+                  "indices": [
+                     40, 
+                     63
+                  ], 
+                  "type": "photo", 
+                  "id": 906801606615863296, 
+                  "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+               }
+            ]
+         }, 
+         "retweeted": false, 
+         "coordinates": null, 
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+         "in_reply_to_screen_name": null, 
+         "in_reply_to_user_id": null, 
+         "retweet_count": 9057, 
+         "id_str": "907544624318881792", 
+         "favorited": false, 
+         "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This..... #HurrcaneIrma https://t.co/ahhJd6C3sV", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 906801631043506176, 
+            "favorite_count": 13940, 
+            "entities": {
+               "symbols": [], 
+               "user_mentions": [], 
+               "hashtags": [
+                  {
+                     "indices": [
+                        10, 
+                        23
+                     ], 
+                     "text": "HurrcaneIrma"
+                  }
+               ], 
+               "urls": [], 
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                     "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                     "url": "https://t.co/ahhJd6C3sV", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                     "id_str": "906801606615863296", 
+                     "sizes": {
+                        "small": {
+                           "h": 680, 
+                           "resize": "fit", 
+                           "w": 614
+                        }, 
+                        "large": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "medium": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        24, 
+                        47
+                     ], 
+                     "type": "photo", 
+                     "id": 906801606615863296, 
+                     "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+                  }
+               ]
+            }, 
+            "retweeted": false, 
+            "coordinates": null, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 9057, 
+            "id_str": "906801631043506176", 
+            "favorited": false, 
+            "user": {
+               "follow_request_sent": false, 
+               "has_extended_profile": false, 
+               "profile_use_background_image": true, 
+               "default_profile_image": false, 
+               "id": 129880735, 
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+               "verified": false, 
+               "translator_type": "none", 
+               "profile_text_color": "333333", 
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/860612739076685826/MUcSb1qE_normal.jpg", 
+               "profile_sidebar_fill_color": "DDEEF6", 
+               "entities": {
+                  "description": {
+                     "urls": []
+                  }
+               }, 
+               "followers_count": 92186, 
+               "profile_sidebar_border_color": "C0DEED", 
+               "id_str": "129880735", 
+               "profile_background_color": "C0DEED", 
+               "listed_count": 158, 
+               "is_translation_enabled": false, 
+               "utc_offset": null, 
+               "statuses_count": 30505, 
+               "description": "Views are my own & do not reflect the views of my employer. RT's are not endorsements. IG : agooner786", 
+               "friends_count": 74710, 
+               "location": "London/Luton", 
+               "profile_link_color": "1DA1F2", 
+               "profile_image_url": "http://pbs.twimg.com/profile_images/860612739076685826/MUcSb1qE_normal.jpg", 
+               "following": false, 
+               "geo_enabled": true, 
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/129880735/1428227592", 
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+               "screen_name": "moethemyth", 
+               "lang": "en", 
+               "profile_background_tile": false, 
+               "favourites_count": 30186, 
+               "name": "Moe", 
+               "notifications": false, 
+               "url": null, 
+               "created_at": "Mon Apr 05 17:58:17 +0000 2010", 
+               "contributors_enabled": false, 
+               "time_zone": null, 
+               "protected": false, 
+               "default_profile": true, 
+               "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Sep 10 08:48:51 +0000 2017", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+               "media": [
+                  {
+                     "expanded_url": "https://twitter.com/moethemyth/status/906801631043506176/photo/1", 
+                     "display_url": "pic.twitter.com/ahhJd6C3sV", 
+                     "url": "https://t.co/ahhJd6C3sV", 
+                     "media_url_https": "https://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg", 
+                     "id_str": "906801606615863296", 
+                     "sizes": {
+                        "small": {
+                           "h": 680, 
+                           "resize": "fit", 
+                           "w": 614
+                        }, 
+                        "large": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "medium": {
+                           "h": 1195, 
+                           "resize": "fit", 
+                           "w": 1079
+                        }, 
+                        "thumb": {
+                           "h": 150, 
+                           "resize": "crop", 
+                           "w": 150
+                        }
+                     }, 
+                     "indices": [
+                        24, 
+                        47
+                     ], 
+                     "type": "photo", 
+                     "id": 906801606615863296, 
+                     "media_url": "http://pbs.twimg.com/media/DJWbQbwXkAAvtTU.jpg"
+                  }
+               ]
+            }, 
+            "metadata": {
+               "iso_language_code": "en", 
+               "result_type": "recent"
+            }
+         }, 
+         "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 401697401, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "translator_type": "none", 
+            "profile_text_color": "000000", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/879286118503657472/3BLJa79H_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            }, 
+            "followers_count": 233, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "401697401", 
+            "profile_background_color": "000000", 
+            "listed_count": 1, 
+            "is_translation_enabled": false, 
+            "utc_offset": -25200, 
+            "statuses_count": 302, 
+            "description": "Aspiring author, procrastinator, general waste of space", 
+            "friends_count": 267, 
+            "location": "", 
+            "profile_link_color": "3B94D9", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/879286118503657472/3BLJa79H_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "screen_name": "inhumanemaniac", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 137, 
+            "name": "Connor Whittle", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sun Oct 30 23:16:08 +0000 2011", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+         }, 
+         "geo": null, 
+         "in_reply_to_user_id_st
