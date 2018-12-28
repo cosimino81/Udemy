@@ -1,5 +1,5 @@
 
-class Employee:
+class SocialEmployee:
   
   def employeeDetails(self):
     self.name = "Mary"
@@ -7,11 +7,16 @@ class Employee:
     print "My name is", self.name
     print "My age is", age
  
+class BankEmployee:
+    
+    def employeeDetails(self):
+        self.code = "CR7"
+        team = "Juventus"
+        role = "Attack"
+        print "The employee code in {} he plays to the {} as {}".format(self.code, team, role)
 
-employee = Employee()
+SocialEmployeeOBJ = SocialEmployee()
+BankEmployeeOBJ = BankEmployee()
 
-employee.employeeDetails()
-
-
-
-
+SocialEmployeeOBJ.employeeDetails()
+BankEmployeeOBJ.employeeDetails()

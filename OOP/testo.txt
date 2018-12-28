@@ -1,1 +1,3 @@
-Hello world the cat is on the table, and the table is under the cat, 
+Hello world the cat is on the table, and the table is under the cat.
+If the cat is yellow the moon is dark.
+If the moon is dark the sky is blue and the sun is shining of my face!

@@ -1,4 +1,11 @@
-#Write an object oriented program to create a precious stone.
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 26 22:21:35 2018
+
+@author: Cosimo
+"""
+
+#Write an object oriented program to create a collection of precious stones.
 #Not more than 5 precious stones can be held in possession at a
 #given point of time. If there are more than 5 precious stones,
 #delete the first stone and store the new one.
@@ -19,8 +26,8 @@ class PreciousStone:
     @staticmethod
     def displayPreciousStones():
         for stone in PreciousStone.StoneCollection:
-            print (stone.name, end = ' ')
-        print (" ")
+            print stone.name, end = ' '
+        print " "
             
             
             

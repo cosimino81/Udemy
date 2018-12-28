@@ -4,31 +4,30 @@ Created on Mon Nov 26 22:21:35 2018
 
 @author: Cosimo
 """
+import nltk
+from nltk import word_tokenize
 
-class TextManipuation:
+class TextManipuation():
     
-    def __int__(self, path):
+    def __init__(self, path):
         self.testo = open(path, 'r')
-        #self.extension = self.path[-3:]
-        print (self.testo)
-    def TextManipulation(self):
-        #if self.extension == 'txt':
-        with (open(self, 'r')) as f:
-            text = f.read()
-        print(text)
+        
+    def TextReader(self):
+        for line in self.testo.readlines():
+            for word in line.split(" "):
+                print word
+                   
+    def Tokenization(self):
+        testo = word_tokenize(self.testo.read())
+        print nltk.pos_tag(testo)
         
         
-        
-ts = TextManipuation('C:\\Users\\Cosimo\\Desktop\\github\\Udemy\\OOP\\testo.txt')
+ts = TextManipuation(r'C:\Users\Cosimo\Desktop\github\Udemy\OOP\testo.txt')
 
-ts.TextReader('C:\\Users\\Cosimo\\Desktop\\github\\Udemy\\OOP\\testo.txt')
+ts.TextReader()
 
+ts.Tokenization()
 
-
-
-
-v = "Users-Cosimo-Desktop-github-Udemy-OOP"
-print (v[-3:])
 
 
 

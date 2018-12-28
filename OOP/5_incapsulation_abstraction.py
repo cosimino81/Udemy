@@ -16,40 +16,42 @@ class Library:
         self.availableBooks = listOfBooks
     
     def displayAvailableBook(self):
-        print()
-        print("Available books: ")
+        print 
+        print "Available books: "
         for book in self.availableBooks:
-            print (book)
-        print()
+            print book
+        print
          
     def lendBook(self, requestBook):
         if requestBook in self.availableBooks:
-            print ("You have borrowed the book")
+            print "You have borrowed the book"
+            print 
             self.availableBooks.remove(requestBook)
         else:
-            print ("Sorry the book is not available")
+            print "Sorry the book is not available"
     
     def addBook(self, returnBook):
         if returnBook not in self.availableBooks:
             self.availableBooks.append(returnBook)
-            print ("You have returned the book, thanks!")
+            print "You have returned the book, thanks!"
+            print 
         else:
-            print ("Book already exist")
+            print "Book already exist"
         
 
 
 class Customer:
     
     def requestBook(self):
-        print("Type the name of the book you want to rent: ")
+        print "Type the name of the book you want to rent: "
         self.book = input()
         return self.book
         
     def returnBook(self):
-        print("Type the name of the book you want to return:")
+        print "Type the name of the book you want to return:"
         self.book = input()
 
-library = Library(['Book One','Book Two','Book Three', 'Book Four'])
+library = Library(["One", "Two", "Three", "Four"])
 customer = Customer()
 
 while True:

@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 26 22:21:35 2018
+
+@author: Cosimo
+"""
+
 class Employee:
   
   def employeeDetails(self):

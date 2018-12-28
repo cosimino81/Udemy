@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 26 22:21:35 2018
+
+@author: Cosimo
+"""
+
 # Create a class 
 # The following class contain two methods and three variable
 class Person:
@@ -29,7 +36,7 @@ print " "
 employee.subtitle = "The world is yours!"
 print employee.subtitle + "\n"
 
-# Modify and Object inside the class (without method 1)
+# Modify and Object inside the class (without method )
 employee.name = "Pippo"
 print employee.name + "\n"
 
