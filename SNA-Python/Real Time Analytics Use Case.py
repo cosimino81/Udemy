@@ -1,24 +1,19 @@
 # -*- coding: utf-8 -*-
 """
 -----------------------------------------------------------------------------
-
-             Social Media Analytics with Python
-             Copyright : V2 Maestros @2016
-                    
-Code Samples :Real Time Analysis - Sentiment Analysis
-
 Before starting, install package textblob
-    pip install textblob
+
+pip install textblob
 -----------------------------------------------------------------------------
 """
 #Setup the home directory.
 import os
-os.chdir("C:\Users\kumaran\Dropbox\V2Maestros\Courses\Social Media Analytics\Python")
+os.chdir("C:\")
 
-consumerKey = 'xllG74V8bklytXuh9U2InA9eV'
-consumerSecret = 'Qm4HRLPguwPyUtbL1h8bWeAujeh3gy0rVUahfgbJL9yIiuDNCP'
-OauthToken = '713039024550588416-Jsi8LBxQk41EB83wJihTHdBKwtWlghZ'
-OauthSecret = '5DfrNVgwcXVXALjCDM49F8QN1LN7tGo8vGcBBpPq1UDoJ'
+consumerKey = ''
+consumerSecret = ''
+OauthToken = ''
+OauthSecret = ''
 
 import twitter
 import json
