@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
------------------------------------------------------------------------------
-
-             Social Media Analytics with Python
-             Copyright : V2 Maestros @2016
-                    
+-----------------------------------------------------------------------------                    
 Code Samples :Classification Example
 
 Classify messages using TF-IDF and Naive Bayes techniques
@@ -12,7 +8,7 @@ Classify messages using TF-IDF and Naive Bayes techniques
 """
 #Setup the home directory.
 import os
-os.chdir("C:\Users\kumaran\Dropbox\V2Maestros\Courses\Social Media Analytics\Python")
+os.chdir("C:")
 
 #The tweets are pre-extracted and stored in a CSV file
 tweets_data = pd.read_csv("ClassificationTweets.csv")
