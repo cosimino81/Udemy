@@ -1,16 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
------------------------------------------------------------------------------
+# -*- coding: utf-8 -*
 
-             Social Media Analytics with Python
-             Copyright : V2 Maestros @2016
-                    
-Code Samples :Using Twitter REST API 
------------------------------------------------------------------------------
-"""
 #Setup the home directory.
 import os
-os.chdir("C:\Users\kumaran\Dropbox\V2Maestros\Courses\Social Media Analytics\Python")
+os.chdir("C:")
 
 """
 Please note the following:
@@ -20,20 +12,21 @@ Please note the following:
 
 3. API reference is https://dev.twitter.com/rest/public
 """
+
 #Get these keys from your application. Please dont use the one
 #that comes with the file
 
-consumerKey = 'Buz1iXJpF9mzVCfdzc4bfkTGc'
-consumerSecret = 'MxdscGMSuvnIvs7Kzmb0gpFN7LGL3G0S1u8NjdfWREHbdcNz1l'
-OauthToken = '1556654238-dJRVI4xrSTyvACcvA4yEkTGpBoSYz3BGJpLONwf'
-OauthSecret = 'DzcGAdEn3OfpnNczD7vUOFiePAU3lkaUh0QJWCYRkq0tV'
+consumerKey = ''
+consumerSecret = ''
+OauthToken = ''
+OauthSecret = ''
 
 import twitter
 import json
 
 #Setup the Twitter API object
-authInfo = twitter.oauth.OAuth(OauthToken, OauthSecret,
-                           consumerKey, consumerSecret)
+authInfo = twitter.oauth.OAuth(OauthToken, OauthSecret, consumerKey, consumerSecret)
+
 twitterAPI = twitter.Twitter(auth=authInfo)
 
 #Get My timeline
