@@ -8,7 +8,7 @@ pip install textblob
 """
 #Setup the home directory.
 import os
-os.chdir("C:\")
+os.chdir("C:")
 
 consumerKey = ''
 consumerSecret = ''
